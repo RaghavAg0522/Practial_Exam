@@ -1,1 +1,1 @@
-PRACTICAL_EXAM
+Practical_Exam
